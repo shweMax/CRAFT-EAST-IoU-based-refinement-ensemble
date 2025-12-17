@@ -5,9 +5,6 @@ venv310/
 __pycache__/
 *.pyc
 
-# Outputs
-outputs/
-
 # OS files
 .DS_Store
 Thumbs.db
